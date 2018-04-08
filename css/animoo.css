@@ -1,0 +1,10 @@
+body {
+  background-color:#D00D2D;
+  text-align: center;
+  color:#D00D2D;
+  font-size:30px; 
+  padding-top:2em;
+  font-family: 'Anonymous Pro', monospace;
+}
+
+* { color:#D00D2D; text-decoration: none;}
